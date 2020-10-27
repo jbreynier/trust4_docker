@@ -1,6 +1,6 @@
 ### Modified from jemimalwh/trust4 ###
-
 FROM ubuntu:16.04
+LABEL maintainer="jbreynier@uchicago.edu"
 
 ARG TRUST4_VERSION=v1.0.0
 
